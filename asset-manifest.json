@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.26c823f7.css",
-    "main.js": "/static/js/main.aa7f2397.js",
+    "main.js": "/static/js/main.a6b6c31e.js",
     "static/media/agri-india-3.jpg": "/static/media/agri-india-3.74d196602a58313f3e47.jpg",
     "index.html": "/index.html",
     "main.26c823f7.css.map": "/static/css/main.26c823f7.css.map",
-    "main.aa7f2397.js.map": "/static/js/main.aa7f2397.js.map"
+    "main.a6b6c31e.js.map": "/static/js/main.a6b6c31e.js.map"
   },
   "entrypoints": [
     "static/css/main.26c823f7.css",
-    "static/js/main.aa7f2397.js"
+    "static/js/main.a6b6c31e.js"
   ]
 }
